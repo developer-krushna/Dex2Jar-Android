@@ -7,7 +7,7 @@ An optimised android sample project that can convert dex file to jar file with r
 
 | App UI | Progress Style |
 | --- | --- |
-| ![App UI](preview/img.png) | ![Dump Style](preview/img_1.png) |
+| ![App UI](preview/img_1.png) | ![Dump Style](preview/img.png) |
 
 ## Project build with
 - Sketcware Pro(Developing projects on Android)
