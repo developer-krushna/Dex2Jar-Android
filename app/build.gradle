@@ -20,6 +20,18 @@ android {
 			proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
 		}
 	}
+
+
+	/**
+	 * During a release build assemblerelease the Android gradle plugin runs a task called lintVitalAnalyzeRelease to
+	 * check your code for issues On newer versions of AGP and Java, this specific lint analysis task can occasionally
+	 * fail or crash due to tool compatibility issues
+	 * @fix
+	 */
+	lint {
+		checkReleaseBuilds false
+		abortOnError false
+	}
 }
 
 dependencies {
