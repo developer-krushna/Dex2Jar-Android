@@ -9,8 +9,9 @@ An optimised android sample project that can convert dex file to jar file with r
 | --- | --- |
 | ![App UI](preview/img_1.png) | ![Dump Style](preview/img.png) |
 
-## Project build with
-- Sketcware Pro(Developing projects on Android)
+## Project Built With
+- Originally developed with **Sketchware Pro**
+- Now ported to **Android Studio** for better development, maintenance, and compatibility
 ## My work
 - [Download Modder Hub](https://modder-hub.blogspot.com)
 
