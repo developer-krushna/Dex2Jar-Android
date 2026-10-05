@@ -5,6 +5,9 @@ An optimised android sample project that can convert dex file to jar file with r
 - [x] Real time progress update while conversion
 - [x] java.nio.file classes are replaced with java.io.File and will support on android 5+ device
 
+| App UI | Progress Style |
+| --- | --- |
+| ![App UI](preview/img.png) | ![Dump Style](preview/img_1.png) |
 
 ## Project build with
 - Sketcware Pro(Developing projects on Android)
